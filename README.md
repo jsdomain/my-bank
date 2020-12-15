@@ -2,6 +2,8 @@
 
 Build Restful CRUD API for a simple bank application using Spring Boot, H2 and JPA.
 
+test
+
 ## Requirements
 
 1. Java - 1.8.x
